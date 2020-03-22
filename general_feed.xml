@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
-  <link href="http://192.168.99.100:4000/general_feed.xml" rel="self"/>
-  <link href="http://192.168.99.100:4000"/>
-  <updated>2020-03-22T21:44:19+00:00</updated>
-  <id>http://192.168.99.100:4000/</id>
+  <link href="https://coronablogbr.org/general_feed.xml" rel="self"/>
+  <link href="https://coronablogbr.org"/>
+  <updated>2020-03-22T21:57:01+00:00</updated>
+  <id>https://coronablogbr.org/</id>
   <author>
     <name>Guilherme Dellagustin, Marcelo F. C. Gomes</name>
     <email>dellagustin@gmail.com</email>
@@ -14,14 +14,14 @@
   
     <entry>
       <title>Episódio 1 - Piloto</title>
-      <link href="http://192.168.99.100:4000/2020/03/22/episodio-001.html"/>
+      <link href="https://coronablogbr.org/2020/03/22/episodio-001.html"/>
       <updated>2020-03-22T00:00:00+00:00</updated>
-      <id>http://192.168.99.100:4000/2020/03/22/episodio-001</id>
+      <id>https://coronablogbr.org/2020/03/22/episodio-001</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronavirusbr-episodio001/coronavirus-br-ep-001.mp3&quot;},&quot;coverUrl&quot;:&quot;http://192.168.99.100:4000/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 1 - Piloto&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://192.168.99.100:4000/2020/03/22/episodio-001.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronavirusbr-episodio001/coronavirus-br-ep-001.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 1 - Piloto&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.org/2020/03/22/episodio-001.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://192.168.99.100:4000/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;assuntos&quot;&gt;Assuntos&lt;/h2&gt;
@@ -52,7 +52,7 @@
 &lt;/ul&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="33190253" href="http://192.168.99.100:4000/episodes/coronavirusbr-episodio001/coronavirus-br-ep-001.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="33190253" href="https://coronablogbr.org/episodes/coronavirusbr-episodio001/coronavirus-br-ep-001.mp3"/>
       
       
     </entry>
