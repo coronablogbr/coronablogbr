@@ -12384,6 +12384,9 @@ btn small, .btn small {
 .episode_date {
   font-size: 45%; }
 
+.navbar-default .navbar-nav > li > a:hover {
+  background-color: #48CFAD; }
+
 /*
 // Main navbar background
 .navbar-default {

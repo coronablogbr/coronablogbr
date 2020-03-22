@@ -9,13 +9,13 @@
 
   <channel>
     <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
-    <link>https://coronablogbr.org</link>
-    <atom:link href="https://coronablogbr.org/feeds/mp3.podcast.rss.xml" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <link>http://192.168.99.100:4000</link>
+    <atom:link href="http://192.168.99.100:4000/feeds/mp3.podcast.rss.xml" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
 
     
     <description>Coronavírus BR Podcast
 </description>
-    <lastBuildDate>Sun, 22 Mar 2020 21:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 21:44:19 +0000</lastBuildDate>
     <language>pt-BR</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -23,7 +23,7 @@
 </itunes:summary>
     <itunes:author>Guilherme Dellagustin, Marcelo F. C. Gomes</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://coronablogbr.org/img/logo-itunes.jpg" />
+    <itunes:image href="http://192.168.99.100:4000/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Guilherme Dellagustin, Marcelo F. C. Gomes</itunes:name>
       <itunes:email>dellagustin@gmail.com</itunes:email>
@@ -34,8 +34,8 @@
     <itunes:keywords>podcast, corona, virus, covid-19</itunes:keywords>
     <image>
       <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
-      <url>https://coronablogbr.org/img/logo-itunes.jpg</url>
-      <link>https://coronablogbr.org</link>
+      <url>http://192.168.99.100:4000/img/logo-itunes.jpg</url>
+      <link>http://192.168.99.100:4000</link>
     </image>
     
     <itunes:category text="Technology" />
@@ -49,9 +49,9 @@
       
           <item>
             <title>Episódio 1 - Piloto</title>
-            <link>https://coronablogbr.org/2020/03/22/episodio-001.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.org/players/episodio-001"/>
-            <comments>https://coronablogbr.org/2020/03/22/episodio-001.html#disqus_thread</comments>
+            <link>http://192.168.99.100:4000/2020/03/22/episodio-001.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://192.168.99.100:4000/players/episodio-001"/>
+            <comments>http://192.168.99.100:4000/2020/03/22/episodio-001.html#disqus_thread</comments>
             <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://coronablogbr.org/2020/03/22/episodio-001.html</guid>
