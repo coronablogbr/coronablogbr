@@ -8,7 +8,7 @@
      version="2.0">
 
   <channel>
-    <title>Octopod</title>
+    <title>Corona Virus BR Podcast</title>
     <link>https://coronablogbr.github.io</link>
     <atom:link href="https://coronablogbr.github.io/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <atom:link href="https://coronablogbr.github.io/episodes.mp3.rss" rel="first" type="application/rss+xml" />
@@ -16,34 +16,37 @@
     
     
 
-    <atom:link rel="alternate" href="https://coronablogbr.github.io/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://coronablogbr.github.io/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-    <description>My super duper cool podcast.
+    
+    <description>Corona Virus BR Podcast
 </description>
-    <lastBuildDate>Thu, 19 Mar 2020 08:08:01 +0000</lastBuildDate>
-    <language>en</language>
+    <lastBuildDate>Sun, 22 Mar 2020 10:26:49 +0000</lastBuildDate>
+    <language>pt-BR</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
-    <itunes:summary>My super duper cool podcast.
+    <itunes:summary>Corona Virus BR Podcast
 </itunes:summary>
-    <itunes:author>Uncle Octopod</itunes:author>
+    <itunes:author>Guilherme Dellagustin, Marcelo Gomes</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://coronablogbr.github.io/img/logo-itunes.jpg" />
     <itunes:owner>
-      <itunes:name>Uncle Octopod</itunes:name>
-      <itunes:email>octopod@example.com</itunes:email>
+      <itunes:name>Guilherme Dellagustin, Marcelo Gomes</itunes:name>
+      <itunes:email>dellagustin@gmail.com</itunes:email>
     </itunes:owner>
-    <managingEditor>octopod@example.com (Uncle Octopod)</managingEditor>
-    <copyright>CC BY 4.0</copyright>
+    <managingEditor>dellagustin@gmail.com (Guilherme Dellagustin, Marcelo Gomes)</managingEditor>
+    <copyright>CC BY-NC-SA 4.0</copyright>
     <itunes:subtitle>Static Site Podcast Publishing for Geeks</itunes:subtitle>
-    <itunes:keywords>octopod, podcast, magic</itunes:keywords>
+    <itunes:keywords>podcast, corona, virus, covid-19</itunes:keywords>
     <image>
-      <title>Octopod</title>
+      <title>Corona Virus BR Podcast</title>
       <url>https://coronablogbr.github.io/img/logo-itunes.jpg</url>
       <link>https://coronablogbr.github.io</link>
     </image>
     
     <itunes:category text="Technology" />
+    
+    <itunes:category text="Health" />
+    
+    <itunes:category text="Science" />
     
     
     
@@ -53,7 +56,7 @@
         
         
           <item>
-            <title>Episode 0 - Getting Started Is Never Easy</title>
+            <title>Episode 0 - Anúncio</title>
             <link>https://coronablogbr.github.io/2016/03/22/episode0.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.github.io/players/episode0"/>
             <comments>https://coronablogbr.github.io/2016/03/22/episode0.html#disqus_thread</comments>
@@ -79,24 +82,14 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://your.fancy.hosting/episodes/episode0.mp3" length="45750" type="audio/mpeg" />
+            <enclosure url="https://archive.org/download/untitled_20200319/untitled.mp3" length="123456" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:subtitle>Anúncio</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>Arne and Stefan</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:03:13</itunes:duration>
+            <itunes:duration></itunes:duration>
             
-            
-            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
-              
-              <psc:chapter start="00:00:00.000" title="Intro." />
-              
-              <psc:chapter start="00:00:01.000" title="... Shoubidoubidoo ..." />
-              
-              <psc:chapter start="00:00:02.000" title="Outro." />
-              
-            </psc:chapters>
             
             
             
