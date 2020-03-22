@@ -1,0 +1,132 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
+    <link>https://coronablogbr.org</link>
+    <atom:link href="https://coronablogbr.org/feeds/mp3.podcast.rss.xml" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+
+    
+    <description>Coronavírus BR Podcast
+</description>
+    <lastBuildDate>Sun, 22 Mar 2020 17:30:06 +0000</lastBuildDate>
+    <language>pt-BR</language>
+    <generator>Jekyll-Octopod 0.9.12</generator>
+
+    <itunes:summary>Coronavírus BR Podcast
+</itunes:summary>
+    <itunes:author>Guilherme Dellagustin, Marcelo F. C. Gomes</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://coronablogbr.org/img/logo-itunes.jpg" />
+    <itunes:owner>
+      <itunes:name>Guilherme Dellagustin, Marcelo F. C. Gomes</itunes:name>
+      <itunes:email>dellagustin@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>dellagustin@gmail.com (Guilherme Dellagustin, Marcelo F. C. Gomes)</managingEditor>
+    <copyright>CC BY-NC-SA 4.0</copyright>
+    <itunes:subtitle>Podcast de informação e notícias sobre a pandemia do coronavírus (Covid-19)</itunes:subtitle>
+    <itunes:keywords>podcast, corona, virus, covid-19</itunes:keywords>
+    <image>
+      <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
+      <url>https://coronablogbr.org/img/logo-itunes.jpg</url>
+      <link>https://coronablogbr.org</link>
+    </image>
+    
+    <itunes:category text="Technology" />
+    
+    <itunes:category text="Health" />
+    
+    <itunes:category text="Science" />
+    
+    
+    
+      
+          <item>
+            <title>Episódio 1 - Piloto</title>
+            <link>https://coronablogbr.org/2020/03/22/episodio-001.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.org/players/episodio-001"/>
+            <comments>https://coronablogbr.org/2020/03/22/episodio-001.html#disqus_thread</comments>
+            <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">https://coronablogbr.org/2020/03/22/episodio-001.html</guid>
+            <description><![CDATA[
+
+<h2 id="assuntos">Assuntos</h2>
+
+<p>Nesse episódio Guilherme Dellagustin e Marcelo F C Gomes explicam o projeto <em>Coronavírus Brasil Podcast</em>, discutem sobre a origem e as características do vírus e da pandemia.</p>
+
+<p>Discutem também o que ocorreu até agora, o impacto que vírus pode causar no sistema de saúde e sobre a prevenção.</p>
+
+<h2 id="participantes">Participantes</h2>
+
+<ul>
+  <li>Guilherme Dellagustin - Físico pela UFRGS - Desenvolvedor de Software na SAP SE, Alemanha</li>
+  <li>Marcelo F. C. Gomes - Doutor em Física pela UFRGS - Programa de Computação Científica - Fundação Oswaldo Cruz (FIOCRUZ), Rio de Janeiro</li>
+</ul>
+
+<h2 id="produção">Produção</h2>
+
+<ul>
+  <li>Pauta - Rafaela Debastiani</li>
+  <li>Edição - Guilherme Dellagustin</li>
+</ul>
+
+<h2 id="links-e-referências">Links e Referências</h2>
+
+<ul>
+  <li><a href="https://youtu.be/zF2pXXJIAGM">Live Coronavírus de 20/03 - Atila Iamarino</a></li>
+  <li><a href="https://ourworldindata.org/coronavirus">Our World in Data</a></li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[
+
+<h2 id="assuntos">Assuntos</h2>
+
+<p>Nesse episódio Guilherme Dellagustin e Marcelo F C Gomes explicam o projeto <em>Coronavírus Brasil Podcast</em>, discutem sobre a origem e as características do vírus e da pandemia.</p>
+
+<p>Discutem também o que ocorreu até agora, o impacto que vírus pode causar no sistema de saúde e sobre a prevenção.</p>
+
+<h2 id="participantes">Participantes</h2>
+
+<ul>
+  <li>Guilherme Dellagustin - Físico pela UFRGS - Desenvolvedor de Software na SAP SE, Alemanha</li>
+  <li>Marcelo F. C. Gomes - Doutor em Física pela UFRGS - Programa de Computação Científica - Fundação Oswaldo Cruz (FIOCRUZ), Rio de Janeiro</li>
+</ul>
+
+<h2 id="produção">Produção</h2>
+
+<ul>
+  <li>Pauta - Rafaela Debastiani</li>
+  <li>Edição - Guilherme Dellagustin</li>
+</ul>
+
+<h2 id="links-e-referências">Links e Referências</h2>
+
+<ul>
+  <li><a href="https://youtu.be/zF2pXXJIAGM">Live Coronavírus de 20/03 - Atila Iamarino</a></li>
+  <li><a href="https://ourworldindata.org/coronavirus">Our World in Data</a></li>
+</ul>
+]]></content:encoded>
+            
+            <enclosure url="https://archive.org/download/coronavirusbr-episodio001/coronavirus-br-ep-001.mp3" length="33190253" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Guilherme Dellagustin e Marcelo F C Gomes</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:28:53</itunes:duration>
+            
+            
+            
+            
+          </item>
+      
+    
+  </channel>
+</rss>
