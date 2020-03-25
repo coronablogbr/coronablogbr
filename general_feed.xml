@@ -4,13 +4,93 @@
   <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
   <link href="https://coronablogbr.org/general_feed.xml" rel="self"/>
   <link href="https://coronablogbr.org"/>
-  <updated>2020-03-23T21:21:25+00:00</updated>
+  <updated>2020-03-25T17:51:53+00:00</updated>
   <id>https://coronablogbr.org/</id>
   <author>
     <name>Guilherme Dellagustin, Marcelo F. C. Gomes</name>
     <email>dellagustin@gmail.com</email>
   </author>
 
+  
+    <entry>
+      <title>Episódio 2 - Coletiva de impresna Piloto</title>
+      <link href="https://coronablogbr.org/2020/03/25/episodio-002.html"/>
+      <updated>2020-03-25T00:00:00+00:00</updated>
+      <id>https://coronablogbr.org/2020/03/25/episodio-002</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablobr-episodio-002/coronablobr-episodio-002.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 2 - Coletiva de impresna Piloto&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.org/2020/03/25/episodio-002.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;Nesse episódio Guilherme Dellagustin e Marcelo F. C. Gomes explicam comentam notícias recentes, informações passadas na coletiva de imprensa do ministério da saúde em 24-03-2020 e recomendam alguns projetos relacionados tema.&lt;/p&gt;
+
+&lt;h2 id=&quot;notícias-comentadas&quot;&gt;Notícias comentadas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/vJycNmK7KPk&quot;&gt;Reino unido aplica restrições mais severas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.un.org/en/story/2020/03/1060082&quot;&gt;Japão cancela oficialmente a olimpiadas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bannerhealth.mediaroom.com/chloroquinephosphate&quot;&gt;Homen de cerca de 60 anos morre devido a efeitos adversos por automedicação de difosfato de cloroquina&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;projetos-recomendados&quot;&gt;Projetos recomendados&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitlab.procc.fiocruz.br/mave/repo&quot;&gt;Relatórios do Grupo de Métodos Analíticos em Vigilância Epidemiológica MAVE (PROCC/Fiocruz e EMap/FGV)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://covid-19-risk.github.io/map/brazil/pt&quot;&gt;Projeção de risco via modelo de propagação com contato por faixa etária e mobilidade intermunicipal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://coronabr.github.io/reunioes-online&quot;&gt;Reuniões online - Corona Vírus (COVID-19) - Página com instruções&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;O objetivo é ajudar aos mais leigos, responsáveis por igrejas e/ou pessoas, a manterem suas instituições mesmo com restrições de ajuntamento. É de responsabilidade de todos cuidarem para que não tenhamos um surto e assim um menor impacto.&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conteúdo-recomendado&quot;&gt;Conteúdo Recomendado&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/HXmt0j1gtDU&quot;&gt;Live Coronavírus de 22/03 - Atila Iamarino - Por que é importante ficar em casa?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/BtN-goy9VOY&quot;&gt;O Coronavírus Explicado e O Que Você Deve Fazer&lt;/a&gt; - Canal do youtube de divulgação científica &lt;em&gt;Kurzgesagt – In a Nutshell&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Canal do youtube &lt;a href=&quot;https://www.youtube.com/channel/UCZFllLoI5kB4o_6w59YVzAA&quot;&gt;A Matemática das Epidemias&lt;/a&gt; - Pra quem tem conhecimento de cálculo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;participantes&quot;&gt;Participantes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Guilherme Dellagustin - Físico pela UFRGS - Desenvolvedor de Software na SAP SE, Alemanha&lt;/li&gt;
+  &lt;li&gt;Marcelo F. C. Gomes - Doutor em Física pela UFRGS - &lt;strong&gt;Pesquisador em Saúde Pública&lt;/strong&gt; - Programa de Computação Científica (PROCC) - Fundação Oswaldo Cruz (FIOCRUZ), Rio de Janeiro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;produção&quot;&gt;Produção&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pauta - Rafaela Debastiani, Guilherme Dellagustin, Marcelo F. C. Gomes&lt;/li&gt;
+  &lt;li&gt;Edição - Guilherme Dellagustin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/HOfMW-K105k&quot;&gt;Coletiva de Imprensa do Ministério da Saúde - 24-03-2020&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.medrxiv.org/content/10.1101/2020.03.19.20039131v1&quot;&gt;Assessing the potential impacts of COVID-19 in Brasil: Mobility, Morbidity and Impact to the Health System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hidroxicloroquina
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://saude.estadao.com.br/noticias/geral,anvisa-torna-controlados-remedios-com-cloroquina-e-hidroxicloroquina,70003242686&quot;&gt;Anvisa torna ‘controlados’ remédios com cloroquina e hidroxicloroquina&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.reumatologia.org.br/orientacoes-ao-paciente/o-tratamento-do-lupus-eritematoso-sistemico/&quot;&gt;O tratamento do lupus eritematoso sistemico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://portal.anvisa.gov.br/noticias?p_p_id=101_INSTANCE_FXrpx9qY7FbU&amp;amp;p_p_col_id=column-2&amp;amp;p_p_col_pos=1&amp;amp;p_p_col_count=2&amp;amp;_101_INSTANCE_FXrpx9qY7FbU_groupId=219201&amp;amp;_101_INSTANCE_FXrpx9qY7FbU_urlTitle=hidroxicloroquina-vira-produto-controlado&amp;amp;_101_INSTANCE_FXrpx9qY7FbU_struts_action=%2Fasset_publisher%2Fview_content&amp;amp;_101_INSTANCE_FXrpx9qY7FbU_assetEntryId=5818322&amp;amp;_101_INSTANCE_FXrpx9qY7FbU_type=content&quot;&gt;Portal da anvisa&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://portal.anvisa.gov.br/documents/219201/4340788/Perguntas+e+respostas_COVID+19+Ascom.pdf/f2819214-f3f1-45db-9a42-de858593d098&quot;&gt;Perguntas e respostas: medicamentos para o combate à COVID-19&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="33190253" href="https://coronablogbr.org/episodes/coronablobr-episodio-002/coronablobr-episodio-002.mp3"/>
+      
+      
+    </entry>
   
     <entry>
       <title>Episódio 1 - Piloto</title>

@@ -15,7 +15,7 @@
     
     <description>Coronavírus BR Podcast
 </description>
-    <lastBuildDate>Mon, 23 Mar 2020 21:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 17:51:53 +0000</lastBuildDate>
     <language>pt-BR</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -45,6 +45,158 @@
     <itunes:category text="Science" />
     
     
+    
+      
+          <item>
+            <title>Episódio 2 - Coletiva de impresna Piloto</title>
+            <link>https://coronablogbr.org/2020/03/25/episodio-002.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.org/players/episodio-002"/>
+            <comments>https://coronablogbr.org/2020/03/25/episodio-002.html#disqus_thread</comments>
+            <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">episodio-002</guid>
+            <description><![CDATA[
+
+<p>Nesse episódio Guilherme Dellagustin e Marcelo F. C. Gomes explicam comentam notícias recentes, informações passadas na coletiva de imprensa do ministério da saúde em 24-03-2020 e recomendam alguns projetos relacionados tema.</p>
+
+<h2 id="notícias-comentadas">Notícias comentadas</h2>
+
+<ul>
+  <li><a href="https://youtu.be/vJycNmK7KPk">Reino unido aplica restrições mais severas</a></li>
+  <li><a href="https://news.un.org/en/story/2020/03/1060082">Japão cancela oficialmente a olimpiadas</a></li>
+  <li><a href="http://bannerhealth.mediaroom.com/chloroquinephosphate">Homen de cerca de 60 anos morre devido a efeitos adversos por automedicação de difosfato de cloroquina</a></li>
+</ul>
+
+<h2 id="projetos-recomendados">Projetos recomendados</h2>
+
+<ul>
+  <li><a href="https://gitlab.procc.fiocruz.br/mave/repo">Relatórios do Grupo de Métodos Analíticos em Vigilância Epidemiológica MAVE (PROCC/Fiocruz e EMap/FGV)</a></li>
+  <li><a href="https://covid-19-risk.github.io/map/brazil/pt">Projeção de risco via modelo de propagação com contato por faixa etária e mobilidade intermunicipal</a></li>
+  <li><a href="https://coronabr.github.io/reunioes-online">Reuniões online - Corona Vírus (COVID-19) - Página com instruções</a>
+    <ul>
+      <li><em>O objetivo é ajudar aos mais leigos, responsáveis por igrejas e/ou pessoas, a manterem suas instituições mesmo com restrições de ajuntamento. É de responsabilidade de todos cuidarem para que não tenhamos um surto e assim um menor impacto.</em></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="conteúdo-recomendado">Conteúdo Recomendado</h2>
+
+<ul>
+  <li><a href="https://youtu.be/HXmt0j1gtDU">Live Coronavírus de 22/03 - Atila Iamarino - Por que é importante ficar em casa?</a></li>
+  <li><a href="https://youtu.be/BtN-goy9VOY">O Coronavírus Explicado e O Que Você Deve Fazer</a> - Canal do youtube de divulgação científica <em>Kurzgesagt – In a Nutshell</em></li>
+  <li>Canal do youtube <a href="https://www.youtube.com/channel/UCZFllLoI5kB4o_6w59YVzAA">A Matemática das Epidemias</a> - Pra quem tem conhecimento de cálculo</li>
+</ul>
+
+<h2 id="participantes">Participantes</h2>
+
+<ul>
+  <li>Guilherme Dellagustin - Físico pela UFRGS - Desenvolvedor de Software na SAP SE, Alemanha</li>
+  <li>Marcelo F. C. Gomes - Doutor em Física pela UFRGS - <strong>Pesquisador em Saúde Pública</strong> - Programa de Computação Científica (PROCC) - Fundação Oswaldo Cruz (FIOCRUZ), Rio de Janeiro</li>
+</ul>
+
+<h2 id="produção">Produção</h2>
+
+<ul>
+  <li>Pauta - Rafaela Debastiani, Guilherme Dellagustin, Marcelo F. C. Gomes</li>
+  <li>Edição - Guilherme Dellagustin</li>
+</ul>
+
+<h2 id="referências">Referências</h2>
+
+<ul>
+  <li><a href="https://youtu.be/HOfMW-K105k">Coletiva de Imprensa do Ministério da Saúde - 24-03-2020</a></li>
+  <li><a href="https://www.medrxiv.org/content/10.1101/2020.03.19.20039131v1">Assessing the potential impacts of COVID-19 in Brasil: Mobility, Morbidity and Impact to the Health System</a></li>
+  <li>Hidroxicloroquina
+    <ul>
+      <li><a href="https://saude.estadao.com.br/noticias/geral,anvisa-torna-controlados-remedios-com-cloroquina-e-hidroxicloroquina,70003242686">Anvisa torna ‘controlados’ remédios com cloroquina e hidroxicloroquina</a></li>
+      <li><a href="https://www.reumatologia.org.br/orientacoes-ao-paciente/o-tratamento-do-lupus-eritematoso-sistemico/">O tratamento do lupus eritematoso sistemico</a></li>
+      <li><a href="http://portal.anvisa.gov.br/noticias?p_p_id=101_INSTANCE_FXrpx9qY7FbU&amp;p_p_col_id=column-2&amp;p_p_col_pos=1&amp;p_p_col_count=2&amp;_101_INSTANCE_FXrpx9qY7FbU_groupId=219201&amp;_101_INSTANCE_FXrpx9qY7FbU_urlTitle=hidroxicloroquina-vira-produto-controlado&amp;_101_INSTANCE_FXrpx9qY7FbU_struts_action=%2Fasset_publisher%2Fview_content&amp;_101_INSTANCE_FXrpx9qY7FbU_assetEntryId=5818322&amp;_101_INSTANCE_FXrpx9qY7FbU_type=content">Portal da anvisa</a>
+        <ul>
+          <li><a href="http://portal.anvisa.gov.br/documents/219201/4340788/Perguntas+e+respostas_COVID+19+Ascom.pdf/f2819214-f3f1-45db-9a42-de858593d098">Perguntas e respostas: medicamentos para o combate à COVID-19</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[
+
+<p>Nesse episódio Guilherme Dellagustin e Marcelo F. C. Gomes explicam comentam notícias recentes, informações passadas na coletiva de imprensa do ministério da saúde em 24-03-2020 e recomendam alguns projetos relacionados tema.</p>
+
+<h2 id="notícias-comentadas">Notícias comentadas</h2>
+
+<ul>
+  <li><a href="https://youtu.be/vJycNmK7KPk">Reino unido aplica restrições mais severas</a></li>
+  <li><a href="https://news.un.org/en/story/2020/03/1060082">Japão cancela oficialmente a olimpiadas</a></li>
+  <li><a href="http://bannerhealth.mediaroom.com/chloroquinephosphate">Homen de cerca de 60 anos morre devido a efeitos adversos por automedicação de difosfato de cloroquina</a></li>
+</ul>
+
+<h2 id="projetos-recomendados">Projetos recomendados</h2>
+
+<ul>
+  <li><a href="https://gitlab.procc.fiocruz.br/mave/repo">Relatórios do Grupo de Métodos Analíticos em Vigilância Epidemiológica MAVE (PROCC/Fiocruz e EMap/FGV)</a></li>
+  <li><a href="https://covid-19-risk.github.io/map/brazil/pt">Projeção de risco via modelo de propagação com contato por faixa etária e mobilidade intermunicipal</a></li>
+  <li><a href="https://coronabr.github.io/reunioes-online">Reuniões online - Corona Vírus (COVID-19) - Página com instruções</a>
+    <ul>
+      <li><em>O objetivo é ajudar aos mais leigos, responsáveis por igrejas e/ou pessoas, a manterem suas instituições mesmo com restrições de ajuntamento. É de responsabilidade de todos cuidarem para que não tenhamos um surto e assim um menor impacto.</em></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="conteúdo-recomendado">Conteúdo Recomendado</h2>
+
+<ul>
+  <li><a href="https://youtu.be/HXmt0j1gtDU">Live Coronavírus de 22/03 - Atila Iamarino - Por que é importante ficar em casa?</a></li>
+  <li><a href="https://youtu.be/BtN-goy9VOY">O Coronavírus Explicado e O Que Você Deve Fazer</a> - Canal do youtube de divulgação científica <em>Kurzgesagt – In a Nutshell</em></li>
+  <li>Canal do youtube <a href="https://www.youtube.com/channel/UCZFllLoI5kB4o_6w59YVzAA">A Matemática das Epidemias</a> - Pra quem tem conhecimento de cálculo</li>
+</ul>
+
+<h2 id="participantes">Participantes</h2>
+
+<ul>
+  <li>Guilherme Dellagustin - Físico pela UFRGS - Desenvolvedor de Software na SAP SE, Alemanha</li>
+  <li>Marcelo F. C. Gomes - Doutor em Física pela UFRGS - <strong>Pesquisador em Saúde Pública</strong> - Programa de Computação Científica (PROCC) - Fundação Oswaldo Cruz (FIOCRUZ), Rio de Janeiro</li>
+</ul>
+
+<h2 id="produção">Produção</h2>
+
+<ul>
+  <li>Pauta - Rafaela Debastiani, Guilherme Dellagustin, Marcelo F. C. Gomes</li>
+  <li>Edição - Guilherme Dellagustin</li>
+</ul>
+
+<h2 id="referências">Referências</h2>
+
+<ul>
+  <li><a href="https://youtu.be/HOfMW-K105k">Coletiva de Imprensa do Ministério da Saúde - 24-03-2020</a></li>
+  <li><a href="https://www.medrxiv.org/content/10.1101/2020.03.19.20039131v1">Assessing the potential impacts of COVID-19 in Brasil: Mobility, Morbidity and Impact to the Health System</a></li>
+  <li>Hidroxicloroquina
+    <ul>
+      <li><a href="https://saude.estadao.com.br/noticias/geral,anvisa-torna-controlados-remedios-com-cloroquina-e-hidroxicloroquina,70003242686">Anvisa torna ‘controlados’ remédios com cloroquina e hidroxicloroquina</a></li>
+      <li><a href="https://www.reumatologia.org.br/orientacoes-ao-paciente/o-tratamento-do-lupus-eritematoso-sistemico/">O tratamento do lupus eritematoso sistemico</a></li>
+      <li><a href="http://portal.anvisa.gov.br/noticias?p_p_id=101_INSTANCE_FXrpx9qY7FbU&amp;p_p_col_id=column-2&amp;p_p_col_pos=1&amp;p_p_col_count=2&amp;_101_INSTANCE_FXrpx9qY7FbU_groupId=219201&amp;_101_INSTANCE_FXrpx9qY7FbU_urlTitle=hidroxicloroquina-vira-produto-controlado&amp;_101_INSTANCE_FXrpx9qY7FbU_struts_action=%2Fasset_publisher%2Fview_content&amp;_101_INSTANCE_FXrpx9qY7FbU_assetEntryId=5818322&amp;_101_INSTANCE_FXrpx9qY7FbU_type=content">Portal da anvisa</a>
+        <ul>
+          <li><a href="http://portal.anvisa.gov.br/documents/219201/4340788/Perguntas+e+respostas_COVID+19+Ascom.pdf/f2819214-f3f1-45db-9a42-de858593d098">Perguntas e respostas: medicamentos para o combate à COVID-19</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+]]></content:encoded>
+            
+            <enclosure url="https://archive.org/download/coronablobr-episodio-002/coronablobr-episodio-002.mp3" length="33190253" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Guilherme Dellagustin e Marcelo F. C. Gomes</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>54:22</itunes:duration>
+            
+            
+            
+            
+          </item>
+      
     
       
           <item>
@@ -118,7 +270,7 @@
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
-            <itunes:author>Guilherme Dellagustin e Marcelo F C Gomes</itunes:author>
+            <itunes:author>Guilherme Dellagustin e Marcelo F. C. Gomes</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>1:28:53</itunes:duration>
             
