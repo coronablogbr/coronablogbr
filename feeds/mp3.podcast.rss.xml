@@ -15,7 +15,7 @@
     
     <description>Coronavírus BR Podcast
 </description>
-    <lastBuildDate>Wed, 25 Mar 2020 22:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 00:17:59 +0000</lastBuildDate>
     <language>pt-BR</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -184,7 +184,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="https://archive.org/download/coronablobr-episodio-002/coronablobr-episodio-002.mp3" length="33190253" type="audio/mpeg" />
+            <enclosure url="https://archive.org/download/coronablobr-episodio-002/coronablobr-episodio-002_v2.mp3" length="33190253" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
