@@ -4,13 +4,60 @@
   <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
   <link href="https://coronablogbr.org/general_feed.xml" rel="self"/>
   <link href="https://coronablogbr.org"/>
-  <updated>2020-04-24T12:57:45+00:00</updated>
+  <updated>2020-04-24T13:02:10+00:00</updated>
   <id>https://coronablogbr.org/</id>
   <author>
     <name>Guilherme Dellagustin, Marcelo F. C. Gomes</name>
     <email>dellagustin@gmail.com</email>
   </author>
 
+  
+    <entry>
+      <title>Episódio 6 - Covid-19 e a Síndrome de Down</title>
+      <link href="https://coronablogbr.org/2020/04/23/episodio-006.html"/>
+      <updated>2020-04-23T00:00:00+00:00</updated>
+      <id>https://coronablogbr.org/2020/04/23/episodio-006</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablogbr-episodio-006/coronablogbr-episodio-006.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 6 - Covid-19 e a Síndrome de Down&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.org/2020/04/23/episodio-006.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;Nesse episódio Guilherme Dellagustin e Ana Claudia Brandão conversam sobre como a Covid-19 e a pandemia afetam as pessoas com Síndrome de Down e suas famílias.&lt;/p&gt;
+
+&lt;h2 id=&quot;conteúdo-recomendado&quot;&gt;Conteúdo Recomendado&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.movimentodown.org.br/&quot;&gt;http://www.movimentodown.org.br/&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.movimentodown.org.br/2020/04/sindrome-de-down-e-coronavirus-ndss/&quot;&gt;Síndrome de Down e Coronavírus – NDSS&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;participantes&quot;&gt;Participantes&lt;/h2&gt;
+
+&lt;p&gt;Mais informações sobre os participantes em: &lt;a href=&quot;https://coronablogbr.org/quem-somos&quot;&gt;coronablogbr.org/quem-somos&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Guilherme Dellagustin - Físico pela UFRGS - Desenvolvedor de Software na SAP SE, Alemanha&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://br.linkedin.com/in/ana-claudia-brand%C3%A3o-9595a623&quot;&gt;Ana Claudia Brandão&lt;/a&gt; - Pediatra Responsável pelo atendimento das crianças com Síndrome de Down no Hospital Israelita Albert Eisntein&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;produção&quot;&gt;Produção&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Edição - Guilherme Dellagustin&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="15466413" href="https://coronablogbr.org/episodes/coronablogbr-episodio-006/coronablogbr-episodio-006.mp3"/>
+      
+      
+    </entry>
   
     <entry>
       <title>Episódio 5 - Troca do Ministro da Saúde e Futuros possíveis</title>
