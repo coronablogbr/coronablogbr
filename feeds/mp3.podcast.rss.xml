@@ -9,13 +9,13 @@
 
   <channel>
     <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
-    <link>https://coronablogbr.org</link>
-    <atom:link href="https://coronablogbr.org/feeds/mp3.podcast.rss.xml" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <link>https://coronablogbr.github.io</link>
+    <atom:link href="https://coronablogbr.github.io/feeds/mp3.podcast.rss.xml" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
 
     
     <description>Coronavírus BR Podcast
 </description>
-    <lastBuildDate>Fri, 24 Apr 2020 13:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 16:51:31 +0000</lastBuildDate>
     <language>pt-BR</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -23,7 +23,7 @@
 </itunes:summary>
     <itunes:author>Guilherme Dellagustin, Marcelo F. C. Gomes</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://coronablogbr.org/img/logo-itunes.jpg" />
+    <itunes:image href="https://coronablogbr.github.io/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Guilherme Dellagustin, Marcelo F. C. Gomes</itunes:name>
       <itunes:email>dellagustin@gmail.com</itunes:email>
@@ -34,8 +34,8 @@
     <itunes:keywords>podcast, corona, virus, covid-19</itunes:keywords>
     <image>
       <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
-      <url>https://coronablogbr.org/img/logo-itunes.jpg</url>
-      <link>https://coronablogbr.org</link>
+      <url>https://coronablogbr.github.io/img/logo-itunes.jpg</url>
+      <link>https://coronablogbr.github.io</link>
     </image>
     
     <itunes:category text="Technology" />
@@ -49,9 +49,9 @@
       
           <item>
             <title>Episódio 6 - Covid-19 e a Síndrome de Down</title>
-            <link>https://coronablogbr.org/2020/04/23/episodio-006.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.org/players/episodio-006"/>
-            <comments>https://coronablogbr.org/2020/04/23/episodio-006.html#disqus_thread</comments>
+            <link>https://coronablogbr.github.io/2020/04/23/episodio-006.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.github.io/players/episodio-006"/>
+            <comments>https://coronablogbr.github.io/2020/04/23/episodio-006.html#disqus_thread</comments>
             <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">episodio-006</guid>
@@ -67,6 +67,7 @@
       <li><a href="http://www.movimentodown.org.br/2020/04/sindrome-de-down-e-coronavirus-ndss/">Síndrome de Down e Coronavírus – NDSS</a></li>
     </ul>
   </li>
+  <li></li>
 </ul>
 
 <h2 id="participantes">Participantes</h2>
@@ -97,6 +98,7 @@
       <li><a href="http://www.movimentodown.org.br/2020/04/sindrome-de-down-e-coronavirus-ndss/">Síndrome de Down e Coronavírus – NDSS</a></li>
     </ul>
   </li>
+  <li></li>
 </ul>
 
 <h2 id="participantes">Participantes</h2>
@@ -133,9 +135,9 @@
       
           <item>
             <title>Episódio 5 - Troca do Ministro da Saúde e Futuros possíveis</title>
-            <link>https://coronablogbr.org/2020/04/20/episodio-005.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.org/players/episodio-005"/>
-            <comments>https://coronablogbr.org/2020/04/20/episodio-005.html#disqus_thread</comments>
+            <link>https://coronablogbr.github.io/2020/04/20/episodio-005.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.github.io/players/episodio-005"/>
+            <comments>https://coronablogbr.github.io/2020/04/20/episodio-005.html#disqus_thread</comments>
             <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">episodio-005</guid>
@@ -269,9 +271,9 @@
       
           <item>
             <title>Episódio 4 - Últimas notícias e a dificuldade em prever o futuro</title>
-            <link>https://coronablogbr.org/2020/04/07/episodio-004.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.org/players/episodio-004"/>
-            <comments>https://coronablogbr.org/2020/04/07/episodio-004.html#disqus_thread</comments>
+            <link>https://coronablogbr.github.io/2020/04/07/episodio-004.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.github.io/players/episodio-004"/>
+            <comments>https://coronablogbr.github.io/2020/04/07/episodio-004.html#disqus_thread</comments>
             <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">episodio-004</guid>
@@ -435,9 +437,9 @@
       
           <item>
             <title>Episódio 3 - Internações por SRAG e projeções do Imperial College</title>
-            <link>https://coronablogbr.org/2020/03/30/episodio-003.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.org/players/episodio-003"/>
-            <comments>https://coronablogbr.org/2020/03/30/episodio-003.html#disqus_thread</comments>
+            <link>https://coronablogbr.github.io/2020/03/30/episodio-003.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.github.io/players/episodio-003"/>
+            <comments>https://coronablogbr.github.io/2020/03/30/episodio-003.html#disqus_thread</comments>
             <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">episodio-003</guid>
@@ -589,9 +591,9 @@
       
           <item>
             <title>Episódio 2 - Coletiva de imprensa</title>
-            <link>https://coronablogbr.org/2020/03/25/episodio-002.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.org/players/episodio-002"/>
-            <comments>https://coronablogbr.org/2020/03/25/episodio-002.html#disqus_thread</comments>
+            <link>https://coronablogbr.github.io/2020/03/25/episodio-002.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.github.io/players/episodio-002"/>
+            <comments>https://coronablogbr.github.io/2020/03/25/episodio-002.html#disqus_thread</comments>
             <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">episodio-002</guid>
@@ -741,9 +743,9 @@
       
           <item>
             <title>Episódio 1 - Piloto</title>
-            <link>https://coronablogbr.org/2020/03/22/episodio-001.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.org/players/episodio-001"/>
-            <comments>https://coronablogbr.org/2020/03/22/episodio-001.html#disqus_thread</comments>
+            <link>https://coronablogbr.github.io/2020/03/22/episodio-001.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://coronablogbr.github.io/players/episodio-001"/>
+            <comments>https://coronablogbr.github.io/2020/03/22/episodio-001.html#disqus_thread</comments>
             <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://coronablogbr.org/2020/03/22/episodio-001.html</guid>

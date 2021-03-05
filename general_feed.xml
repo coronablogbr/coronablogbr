@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Coronavírus (Covid-19) Brasil Blog e Podcast</title>
-  <link href="https://coronablogbr.org/general_feed.xml" rel="self"/>
-  <link href="https://coronablogbr.org"/>
-  <updated>2020-04-24T13:06:16+00:00</updated>
-  <id>https://coronablogbr.org/</id>
+  <link href="https://coronablogbr.github.io/general_feed.xml" rel="self"/>
+  <link href="https://coronablogbr.github.io"/>
+  <updated>2021-03-05T16:51:31+00:00</updated>
+  <id>https://coronablogbr.github.io/</id>
   <author>
     <name>Guilherme Dellagustin, Marcelo F. C. Gomes</name>
     <email>dellagustin@gmail.com</email>
@@ -14,14 +14,14 @@
   
     <entry>
       <title>Episódio 6 - Covid-19 e a Síndrome de Down</title>
-      <link href="https://coronablogbr.org/2020/04/23/episodio-006.html"/>
+      <link href="https://coronablogbr.github.io/2020/04/23/episodio-006.html"/>
       <updated>2020-04-23T00:00:00+00:00</updated>
-      <id>https://coronablogbr.org/2020/04/23/episodio-006</id>
+      <id>https://coronablogbr.github.io/2020/04/23/episodio-006</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablogbr-episodio-006/coronablogbr-episodio-006.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 6 - Covid-19 e a Síndrome de Down&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.org/2020/04/23/episodio-006.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablogbr-episodio-006/coronablogbr-episodio-006.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.github.io/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 6 - Covid-19 e a Síndrome de Down&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.github.io/2020/04/23/episodio-006.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;Nesse episódio Guilherme Dellagustin e Ana Claudia Brandão conversam sobre como a Covid-19 e a pandemia afetam as pessoas com Síndrome de Down e suas famílias.&lt;/p&gt;
@@ -34,6 +34,7 @@
       &lt;li&gt;&lt;a href=&quot;http://www.movimentodown.org.br/2020/04/sindrome-de-down-e-coronavirus-ndss/&quot;&gt;Síndrome de Down e Coronavírus – NDSS&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;participantes&quot;&gt;Participantes&lt;/h2&gt;
@@ -53,21 +54,21 @@
 
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="15466413" href="https://coronablogbr.org/episodes/coronablogbr-episodio-006/coronablogbr-episodio-006.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="15466413" href="https://coronablogbr.github.io/episodes/coronablogbr-episodio-006/coronablogbr-episodio-006.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Episódio 5 - Troca do Ministro da Saúde e Futuros possíveis</title>
-      <link href="https://coronablogbr.org/2020/04/20/episodio-005.html"/>
+      <link href="https://coronablogbr.github.io/2020/04/20/episodio-005.html"/>
       <updated>2020-04-20T00:00:00+00:00</updated>
-      <id>https://coronablogbr.org/2020/04/20/episodio-005</id>
+      <id>https://coronablogbr.github.io/2020/04/20/episodio-005</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablogbr-episodio-005/coronablogbr-episodio-005.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 5 - Troca do Ministro da Saúde e Futuros possíveis&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.org/2020/04/20/episodio-005.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablogbr-episodio-005/coronablogbr-episodio-005.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.github.io/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 5 - Troca do Ministro da Saúde e Futuros possíveis&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.github.io/2020/04/20/episodio-005.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;Nesse episódio Guilherme Dellagustin e Flávio Codeço Coelho comentam sobre a troca do Ministro da Saúde e discutem sobre o os possíveis futuros da pandemia, com base no artigo científico &lt;a href=&quot;https://science.sciencemag.org/content/early/2020/04/14/science.abb5793&quot;&gt;Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period&lt;/a&gt;, publicado na revista &lt;em&gt;Science&lt;/em&gt; em 14/04/2020.&lt;/p&gt;
@@ -125,21 +126,21 @@
 
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="23921444" href="https://coronablogbr.org/episodes/coronablogbr-episodio-005/coronablogbr-episodio-005.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="23921444" href="https://coronablogbr.github.io/episodes/coronablogbr-episodio-005/coronablogbr-episodio-005.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Episódio 4 - Últimas notícias e a dificuldade em prever o futuro</title>
-      <link href="https://coronablogbr.org/2020/04/07/episodio-004.html"/>
+      <link href="https://coronablogbr.github.io/2020/04/07/episodio-004.html"/>
       <updated>2020-04-07T00:00:00+00:00</updated>
-      <id>https://coronablogbr.org/2020/04/07/episodio-004</id>
+      <id>https://coronablogbr.github.io/2020/04/07/episodio-004</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablogbr-episodio-004/coronablogbr-episodio-004.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 4 - Últimas notícias e a dificuldade em prever o futuro&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.org/2020/04/07/episodio-004.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablogbr-episodio-004/coronablogbr-episodio-004.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.github.io/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 4 - Últimas notícias e a dificuldade em prever o futuro&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.github.io/2020/04/07/episodio-004.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;Nesse episódio Guilherme Dellagustin e Marcelo F. C. Gomes comentam notícias recentes, incluindo a especulação sobre a possível troca do Ministro da Saúde e os comentários do Ministro da Educação sobre a China no Twitter.&lt;/p&gt;
@@ -210,16 +211,16 @@
 
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="17820352" href="https://coronablogbr.org/episodes/coronablogbr-episodio-004/coronablogbr-episodio-004.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="17820352" href="https://coronablogbr.github.io/episodes/coronablogbr-episodio-004/coronablogbr-episodio-004.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Ministério da saúde cria canal para centralizar recebimento de projetos de inovação</title>
-      <link href="https://coronablogbr.org/2020/04/02/colimp-email-minsaude-ideias.html"/>
+      <link href="https://coronablogbr.github.io/2020/04/02/colimp-email-minsaude-ideias.html"/>
       <updated>2020-04-02T00:00:00+00:00</updated>
-      <id>https://coronablogbr.org/2020/04/02/colimp-email-minsaude-ideias</id>
+      <id>https://coronablogbr.github.io/2020/04/02/colimp-email-minsaude-ideias</id>
       <content type="html">&lt;p&gt;O ministro da saúde Luiz Henrique Mandetta anunciou na coletiva de imprensa do dia 01/04/2020 que foi criado um canal para centralizar o recebimento de informações sobre projetos de pesquisa e inovação relacionados ao COVID-19.&lt;/p&gt;
 
 &lt;p&gt;Quem quiser comunicar tais projetos ao ministério, como por exemplo iniciativas para design e fabricação de máscaras e respiradores, pode entrar em contato através do e-mail &lt;a href=&quot;mailto:pesquisacovid19@saude.gov.br&quot;&gt;pesquisacovid19@saude.gov.br&lt;/a&gt;.&lt;/p&gt;
@@ -235,9 +236,9 @@
   
     <entry>
       <title>Hidroxicloroquina: A visão de uma cientista sobre a divulgação da busca pela cura</title>
-      <link href="https://coronablogbr.org/2020/03/31/texto-hidroxicloroquina.html"/>
+      <link href="https://coronablogbr.github.io/2020/03/31/texto-hidroxicloroquina.html"/>
       <updated>2020-03-31T00:00:00+00:00</updated>
-      <id>https://coronablogbr.org/2020/03/31/texto-hidroxicloroquina</id>
+      <id>https://coronablogbr.github.io/2020/03/31/texto-hidroxicloroquina</id>
       <content type="html">&lt;p&gt;&lt;strong&gt;Autora:&lt;/strong&gt; &lt;a href=&quot;http://lattes.cnpq.br/8027347986062060&quot;&gt;Cristina Gavazzoni, pós-doutoranda na UFRGS&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Notas:&lt;/strong&gt;&lt;/p&gt;
@@ -397,14 +398,14 @@ Vamos aos fatos.&lt;/p&gt;
   
     <entry>
       <title>Episódio 3 - Internações por SRAG e projeções do Imperial College</title>
-      <link href="https://coronablogbr.org/2020/03/30/episodio-003.html"/>
+      <link href="https://coronablogbr.github.io/2020/03/30/episodio-003.html"/>
       <updated>2020-03-30T00:00:00+00:00</updated>
-      <id>https://coronablogbr.org/2020/03/30/episodio-003</id>
+      <id>https://coronablogbr.github.io/2020/03/30/episodio-003</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablogbr-episodio-003/coronablogbr-episodio-003.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 3 - Internações por SRAG e projeções do Imperial College&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.org/2020/03/30/episodio-003.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablogbr-episodio-003/coronablogbr-episodio-003.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.github.io/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 3 - Internações por SRAG e projeções do Imperial College&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.github.io/2020/03/30/episodio-003.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;Nesse episódio Guilherme Dellagustin e Marcelo F. C. Gomes discutem sobre a alta abrupta nos casos de internação por Síndrome Respiratória Aguda Grave (SRAG) a partir das semanas epidemiológicas 11 e 12.&lt;/p&gt;
@@ -471,21 +472,21 @@ Vamos aos fatos.&lt;/p&gt;
 
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="16635628" href="https://coronablogbr.org/episodes/coronablogbr-episodio-003/coronablogbr-episodio-003.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="16635628" href="https://coronablogbr.github.io/episodes/coronablogbr-episodio-003/coronablogbr-episodio-003.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Episódio 2 - Coletiva de imprensa</title>
-      <link href="https://coronablogbr.org/2020/03/25/episodio-002.html"/>
+      <link href="https://coronablogbr.github.io/2020/03/25/episodio-002.html"/>
       <updated>2020-03-25T00:00:00+00:00</updated>
-      <id>https://coronablogbr.org/2020/03/25/episodio-002</id>
+      <id>https://coronablogbr.github.io/2020/03/25/episodio-002</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablobr-episodio-002/coronablobr-episodio-002_v2.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 2 - Coletiva de imprensa&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.org/2020/03/25/episodio-002.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronablobr-episodio-002/coronablobr-episodio-002_v2.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.github.io/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 2 - Coletiva de imprensa&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.github.io/2020/03/25/episodio-002.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;Nesse episódio Guilherme Dellagustin e Marcelo F. C. Gomes comentam notícias recentes, informações passadas na coletiva de imprensa do ministério da saúde em 24-03-2020 e recomendam alguns projetos relacionados tema.&lt;/p&gt;
@@ -551,21 +552,21 @@ Vamos aos fatos.&lt;/p&gt;
 &lt;/ul&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="46432734" href="https://coronablogbr.org/episodes/coronablobr-episodio-002/coronablobr-episodio-002_v2.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="46432734" href="https://coronablogbr.github.io/episodes/coronablobr-episodio-002/coronablobr-episodio-002_v2.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Episódio 1 - Piloto</title>
-      <link href="https://coronablogbr.org/2020/03/22/episodio-001.html"/>
+      <link href="https://coronablogbr.github.io/2020/03/22/episodio-001.html"/>
       <updated>2020-03-22T00:00:00+00:00</updated>
-      <id>https://coronablogbr.org/2020/03/22/episodio-001</id>
+      <id>https://coronablogbr.github.io/2020/03/22/episodio-001</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronavirusbr-episodio001/coronavirus-br-ep-001.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 1 - Piloto&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.org/2020/03/22/episodio-001.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://archive.org/download/coronavirusbr-episodio001/coronavirus-br-ep-001.mp3&quot;},&quot;coverUrl&quot;:&quot;https://coronablogbr.github.io/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episódio 1 - Piloto&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://coronablogbr.github.io/2020/03/22/episodio-001.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://coronablogbr.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;assuntos&quot;&gt;Assuntos&lt;/h2&gt;
@@ -596,7 +597,7 @@ Vamos aos fatos.&lt;/p&gt;
 &lt;/ul&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="33190253" href="https://coronablogbr.org/episodes/coronavirusbr-episodio001/coronavirus-br-ep-001.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="33190253" href="https://coronablogbr.github.io/episodes/coronavirusbr-episodio001/coronavirus-br-ep-001.mp3"/>
       
       
     </entry>
